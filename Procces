@@ -1,0 +1,5 @@
+MG5_aMC>import model Pseudoscalar_2HDM-bbMET_5FS
+MG5_aMC>add model heft
+MG5_aMC>generate p p > h1 xd xd~ ,(h1 > a a)
+MG5_aMC>output mon_higs_diphoton
+MG5_aMC>launch
